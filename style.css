@@ -1,0 +1,13 @@
+.sidenav ul {
+    list-style-type: none;
+    padding: 10px;
+}
+.sidelist {
+    padding: 3px;
+}
+.content {
+    float: right;
+}
+.content h3 {
+    padding: 10px;
+}
